@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="welcome">Welcome</string>
+    // \ = scape
+    <string name="your_name">What\'s your name?</string>
+    <string name="next">Next</string>
+    <string name="logo">Application logo</string>
+    <string name="typing">Type your name:</string>
+</resources>
